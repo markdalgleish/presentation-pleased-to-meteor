@@ -1,14 +1,19 @@
 {
   "name": "presentation-pleased-to-meteor",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "main": "server.js",
   "dependencies": {
     "cuecard": "https://github.com/markdalgleish/cuecard/tarball/master"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
   },
   "author": "Mark Dalgleish",
-  "license": "MIT"
+  "license": "MIT",
+  "subdomain": "pleased-to-meteor",
+  "engines": {
+    "node": "0.6.x"
+  }
 }
