@@ -1,6 +1,6 @@
 {
   "name": "presentation-pleased-to-meteor",
-  "version": "0.0.1-1",
+  "version": "0.0.1-2",
   "main": "server.js",
   "dependencies": {
     "cuecard": "https://github.com/markdalgleish/cuecard/tarball/master"
