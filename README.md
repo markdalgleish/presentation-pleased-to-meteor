@@ -1,14 +1,12 @@
 # [Pleased to Meteor (Presentation)](http://pleased-to-meteor.jit.su/)
 
-Requires [Node.js](http://nodejs.org/).
-
-Uses [Cuecard](https://github.com/markdalgleish/cuecard) for remote support.
-
-## Nodejitsu Hosted Version
-
 This presentation is available on Nodejitsu: [http://pleased-to-meteor.jit.su/](http://pleased-to-meteor.jit.su/)
 
 ## Local Setup
+
+Requires [Node.js](http://nodejs.org/).
+
+Uses [Cuecard](https://github.com/markdalgleish/cuecard) for remote support.
 
 Clone this repo:
 
